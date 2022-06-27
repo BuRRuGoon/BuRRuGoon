@@ -55,4 +55,7 @@
   <a href="https://www.acmicpc.net/user/projectru75">
     <img src="https://img.shields.io/badge/Baekjoon-99CC00?style=for-the-badge&logo=sharp&logoColor=white"/>
   </a>
+  <a href="https://steamcommunity.com/id/BuRRuGoon">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white"/>
+  </a>
 </p>
