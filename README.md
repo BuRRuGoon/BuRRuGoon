@@ -10,7 +10,7 @@
 </p>
 
 <p align="center" style="color:gray">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 </p>
@@ -52,7 +52,7 @@
   <a href="https://www.codingame.com/profile/54ac2abfdb5aecfec08994e694e999817948694">
     <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=CodinGame&logoColor=white"/>
   </a>
-  <a href="https://www.codingame.com/profile/54ac2abfdb5aecfec08994e694e999817948694">
+  <a href="https://www.acmicpc.net/user/projectru75">
     <img src="https://img.shields.io/badge/Baekjoon-99CC00?style=for-the-badge&logo=sharp&logoColor=white"/>
   </a>
 </p>
