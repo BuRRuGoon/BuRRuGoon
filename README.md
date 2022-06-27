@@ -47,5 +47,10 @@
 </p>
 ---------------------------------------
 #### <p align="center" style="color:gray"> Profile </p>
-<a href="https://www.codingame.com/profile/54ac2abfdb5aecfec08994e694e999817948694"><img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=CodinGame&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/sharp-99CC00?style=for-the-badge&logo=Baekjoon&logoColor=white"/>
+<a href="https://www.codingame.com/profile/54ac2abfdb5aecfec08994e694e999817948694">
+  <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=CodinGame&logoColor=white"/>
+</a>
+<a href="https://www.codingame.com/profile/54ac2abfdb5aecfec08994e694e999817948694">
+  <img src="https://img.shields.io/badge/Baekjoon-99CC00?style=for-the-badge&logo=sharp&logoColor=white"/>
+</a>
+</p>
