@@ -45,3 +45,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </p>
+---------------------------------------
+#### <p align="center" style="color:gray"> Profile </p>
+<a href="https://www.codingame.com/profile/54ac2abfdb5aecfec08994e694e999817948694"><img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=CodinGame&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/sharp-99CC00?style=for-the-badge&logo=Baekjoon&logoColor=white"/>
