@@ -30,7 +30,7 @@
 </p>
 
 ---------------------------------------
-#### <p align="center" style="color:gray">🌏 Other </p>
+#### <p align="center" style="color:gray">🌏 Other Tech </p>
 <p align="center" style="color:gray">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
